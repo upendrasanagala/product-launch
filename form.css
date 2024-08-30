@@ -1,0 +1,33 @@
+form{
+    justify-items: center;
+    text-align: center;
+    align-items: center;
+}
+body{
+    background-color: aliceblue;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+.login-container {
+    background-color: antiquewhite;
+    padding: 10%;
+    border-radius: 12px;
+    box-shadow: 0 0 10px gray;
+    width: 300px;
+}
+h2 {
+    background-color: black;
+    display: inline;
+    color: yellowgreen;
+}
+label {
+    color: goldenrod;
+}
+button{
+    border-radius: 20px;
+}
