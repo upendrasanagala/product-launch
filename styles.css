@@ -80,30 +80,6 @@ header nav {
     padding: 20px;
 }
 
-.pricing {
-    
-    padding: 50px 0;
-    text-align: center;
-}
-
-.pricing .plan {
-    padding: 20px;
-    margin: 20px;
-    
-    border: 1px solid #e4e4e4;
-    border-radius: 5px;
-    display: inline-block;
-    width: 30%;
-    vertical-align: top;
-}
-
-.pricing .cta-button {
-    padding: 10px 20px;
-   
-    color: #020202;
-    text-decoration: none;
-    
-}
 
 footer {
     
@@ -146,6 +122,6 @@ footer form button {
         justify-content: space-between; /* Adjust spacing as needed */ 
 }
 .product-card {
-    width: 45%; /* Adjust width as needed */
+    width: 55%; /* Adjust width as needed */
     /* Other styling for product cards */
   }    
