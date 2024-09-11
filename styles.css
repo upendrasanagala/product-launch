@@ -127,3 +127,9 @@ footer form button {
     cursor: pointer;
     border-radius: 5px;
 }
+.add-to-cart {
+    background-color: rgba(253, 240, 3, 0.868);
+}
+.cta-button {
+    background-color: rgba(253, 240, 3, 0.868);
+}
