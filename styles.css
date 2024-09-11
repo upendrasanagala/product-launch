@@ -136,3 +136,8 @@ footer form button {
 .logo {
      height: 50px; 
 }
+.product-image {
+    max-width: 309px;
+    max-height: 309px;
+}
+    
