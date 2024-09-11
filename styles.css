@@ -122,7 +122,7 @@ footer form button {
         justify-content: space-between; /* Adjust spacing as needed */ 
 }
 .product-card {
-    width: 55%; /* Adjust width as needed */
+    width: 45%; /* Adjust width as needed */
     /* Other styling for product cards */
   }    
 .product-grid1 {
@@ -131,7 +131,7 @@ footer form button {
         justify-content: space-between; /* Adjust spacing as needed */ 
 }
 .product-card1 {
-    width: 55%; /* Adjust width as needed */
+    width: 45%; /* Adjust width as needed */
     /* Other styling for product cards */
   }    
 .product-grid2 {
@@ -140,6 +140,6 @@ footer form button {
         justify-content: space-between; /* Adjust spacing as needed */ 
 }
 .product-card2 {
-    width: 55%; /* Adjust width as needed */
+    width: 45%; /* Adjust width as needed */
     /* Other styling for product cards */
   } 
