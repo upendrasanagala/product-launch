@@ -8,9 +8,9 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     background: url('sun.jpg') no-repeat center center/cover;
-    background:auto;
-    background-position:center;
-    padding: 110px;
+   background-size: cover; /* Adjust to fit the container */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat;
 }
 
 .container {
@@ -140,4 +140,12 @@ footer form button {
     max-width: 309px;
     max-height: 309px;
 }
+.product-grid {
     
+        display: flex;
+        justify-content: space-between; /* Adjust spacing as needed */ 
+}
+.product-card {
+    width: 45%; /* Adjust width as needed */
+    /* Other styling for product cards */
+  }    
