@@ -125,24 +125,21 @@ footer form button {
     width: 55%; /* Adjust width as needed */
     /* Other styling for product cards */
   }    
-.product-grid {
+.product-grid1 {
     
         display: flex;
         justify-content: space-between; /* Adjust spacing as needed */ 
 }
-.product-card {
+.product-card1 {
     width: 55%; /* Adjust width as needed */
     /* Other styling for product cards */
   }    
-.product-grid {
+.product-grid2 {
     
         display: flex;
         justify-content: space-between; /* Adjust spacing as needed */ 
 }
-.product-card {
+.product-card2 {
     width: 55%; /* Adjust width as needed */
     /* Other styling for product cards */
   } 
-.plan {
-    text-align:center;
-}
